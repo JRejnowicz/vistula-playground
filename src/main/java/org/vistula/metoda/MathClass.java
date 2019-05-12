@@ -8,7 +8,7 @@ public class MathClass {
         this.numberOne = numberOne;
         this.numberTwo = numberTwo;
     }
-
+//
     public int getSum() {
         return numberOne + numberTwo;
     }
